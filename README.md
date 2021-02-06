@@ -1,2 +1,2 @@
-# csgo-training
- I offer files to train csgo players, whether you want beginner or proffesionel.
+# Project Niky
+I offer training (file) that allows you to train solo on the different maps available on csgo.
